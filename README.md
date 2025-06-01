@@ -1,4 +1,4 @@
 # git-github-class
-Tutorial on Git &amp; Github
+Tutorial on Git & Github
 <br>
 Changes by : yogesh kumar meena
